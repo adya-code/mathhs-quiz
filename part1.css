@@ -1,0 +1,27 @@
+#tbg{
+    width: 1500;
+    height: 300;
+    background-image: url("image.jpg");
+}
+
+
+#div1{
+    position: absolute;
+    top: 240px ;
+    left: 500;
+    background-color: white;
+    
+    width:280;
+    height: 250;
+}
+
+#btnl{
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+#ph1{
+    background: linear-gradient(to top, #ff0099, #493240);
+}
+#ph2{
+    background: linear-gradient(to right, #8e2de2, #4a00e0)
+}
